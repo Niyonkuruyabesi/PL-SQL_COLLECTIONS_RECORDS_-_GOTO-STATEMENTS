@@ -136,6 +136,8 @@ Explanation:
 The GOTO statement jumps to the label <<end_process>> if a customer or product is missing.
 
 It prevents unnecessary insert operations.
+
+
 GOTO when all conditions work successfully
 
 ```sql
