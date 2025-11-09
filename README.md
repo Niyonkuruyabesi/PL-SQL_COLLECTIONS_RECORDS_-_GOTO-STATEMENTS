@@ -131,6 +131,8 @@ BEGIN
 END;
 /
 ```
+
+![GOTO](screenshots/GOTO.png)
 Explanation:
 
 The GOTO statement jumps to the label <<end_process>> if a customer or product is missing.
