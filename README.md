@@ -131,6 +131,11 @@ BEGIN
 END;
 /
 ```
+Explanation:
+
+The GOTO statement jumps to the label <<end_process>> if a customer or product is missing.
+
+It prevents unnecessary insert operations.
 GOTO when all conditions work successfully
 
 ```sql
@@ -264,7 +269,7 @@ END;
 
 ##  Author
 **NIYONKURU YABESI**  
-*Medical Laboratory Scientist & Database Programming Student*  
+  
 
  *Assignment Date:* 2025  
  *Topic:* PL/SQL — GOTO Statement, Records, and Collections
