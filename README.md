@@ -198,7 +198,7 @@ END;
 
 ---
 
-### 🟢 Record from Table (%ROWTYPE)
+###  Record from Table (%ROWTYPE)
 ```sql
 DECLARE
     cust_record customers%ROWTYPE;
@@ -213,7 +213,7 @@ END;
 
 ---
 
-### 🟢 Collection Example (Associative Array)
+###  Collection Example (Associative Array)
 ```sql
 DECLARE
     TYPE amount_table IS TABLE OF NUMBER INDEX BY PLS_INTEGER;
@@ -232,7 +232,7 @@ END;
 
 ---
 
-### 🟢 Collection with Table Data (BULK COLLECT)
+###  Collection with Table Data (BULK COLLECT)
 ```sql
 DECLARE
     TYPE cust_list IS TABLE OF customers.cust_name%TYPE;
@@ -249,16 +249,8 @@ END;
 
 ---
 
-## 🖥️ 4. How to View Output in SQL Developer
 
-1. Go to **View → DBMS Output**
-2. Click the **“+”** icon to enable output for your current connection.
-3. Run your PL/SQL block.
-4. Check the **DBMS Output** tab at the bottom to see printed messages.
-
----
-
-## 📚 Summary
+##  Summary
 
 | Concept | Description |
 |----------|-------------|
@@ -270,9 +262,9 @@ END;
 
 ---
 
-## 🏁 Author
+##  Author
 **NIYONKURU YABESI**  
 *Medical Laboratory Scientist & Database Programming Student*  
 
-📅 *Assignment Date:* 2025  
-📘 *Topic:* PL/SQL — GOTO Statement, Records, and Collections
+ *Assignment Date:* 2025  
+ *Topic:* PL/SQL — GOTO Statement, Records, and Collections
