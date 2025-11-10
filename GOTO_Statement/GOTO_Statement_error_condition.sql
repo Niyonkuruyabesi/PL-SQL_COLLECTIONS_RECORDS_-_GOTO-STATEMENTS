@@ -1,4 +1,4 @@
-### 🟢 GOTO Statement Example
+###  GOTO Statement Example
 
 SET SERVEROUTPUT ON;
 
@@ -36,3 +36,4 @@ BEGIN
     DBMS_OUTPUT.PUT_LINE('Process finished.');
 END;
 /
+
