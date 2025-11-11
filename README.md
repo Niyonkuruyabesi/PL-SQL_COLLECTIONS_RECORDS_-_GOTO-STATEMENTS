@@ -13,6 +13,11 @@ This project demonstrates the use of **PL/SQL programming concepts** — includi
 It includes table creation, data insertion, and examples of PL/SQL blocks that handle database logic dynamically.
 
 ---
+Business Problem
+Context: Agribusiness operating across regions in Rwanda.
+Challenge: The company does not know the top-selling agricultural products in each region.
+
+
 
 ##  1. Database Setup
 
