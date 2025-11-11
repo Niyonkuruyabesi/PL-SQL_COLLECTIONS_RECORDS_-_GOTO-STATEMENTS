@@ -14,7 +14,9 @@ It includes table creation, data insertion, and examples of PL/SQL blocks that h
 
 ---
 Business Problem
+
 Context: Agribusiness operating across regions in Rwanda.
+
 Challenge: The company does not know the top-selling agricultural products in each region.
 
 
